@@ -1,1 +1,1 @@
-JS CDN-Files idext.ru
+CSS CDN-Files idext.ru
